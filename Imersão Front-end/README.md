@@ -1,2 +1,2 @@
 
-![imersaoFrontEnd](/imersao%20front%20end.png)
+![imersaoFrontEnd](https://media.discordapp.net/attachments/886729161631227944/1199077460315217950/imersao_front_end.png?ex=65c13ae8&is=65aec5e8&hm=507821f765988be56e907d3df0acb676d54a1be7d8f731cd000116313ce039d3&=&format=webp&quality=lossless&width=960&height=56)
